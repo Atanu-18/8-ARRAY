@@ -7,7 +7,7 @@ public class array_4 {
 
         int numbers[] = new int[size];
 
-        //input e rjonno
+        //input erjonno
         for (int i = 0; i < size; i++) {
             numbers[i] = sc.nextInt();
         }

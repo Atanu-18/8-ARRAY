@@ -16,7 +16,7 @@ public class practice_2 {
 
         //for o/p
         for (int i = 0; i < names.length; i++) {
-            System.out.println("name " + (i) + " is " + names[i]);
+            System.out.println(names[i]); //"name " + (i) + " is " + 
         }
 //(i) or (i+1) deoa jay
         sc.close();
